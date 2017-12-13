@@ -11,7 +11,7 @@ class Dog
   end
 
   def all
-
+    puts @@all
   end
 
 
