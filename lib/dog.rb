@@ -13,10 +13,10 @@ class Dog
   end
 
   def Dog.all
-    all.name do |dodge|
+    all.name 
     puts dodge.name
 
-  end
+  
   end
 
 
