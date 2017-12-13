@@ -13,7 +13,7 @@ class Dog
   end
 
   def Dog.all
-    names =  all.name
+    names =  @@all.name
     puts names
 
 
