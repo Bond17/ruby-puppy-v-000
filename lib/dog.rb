@@ -14,7 +14,7 @@ class Dog
 
   def Dog.all
     names =  all.name
-    puts names.name
+    puts names
 
 
   end
