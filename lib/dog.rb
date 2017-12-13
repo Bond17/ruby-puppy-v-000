@@ -14,7 +14,7 @@ class Dog
 
   def Dog.all
     self.each do |dodge|
-    puts dodge
+    puts dodge.name
 
   end
   end
