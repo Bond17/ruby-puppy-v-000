@@ -10,7 +10,7 @@ class Dog
     @@all.clear
   end
 
-  def all
+  def Dog.all
     puts @@all
   end
 
