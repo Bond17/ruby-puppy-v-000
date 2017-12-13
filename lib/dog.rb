@@ -15,7 +15,7 @@ class Dog
   def Dog.all
     @@all.each do |dodge|
     puts dodge
-    
+
   end
   end
 
